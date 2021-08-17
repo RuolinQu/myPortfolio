@@ -1,0 +1,20 @@
+.skill_wrapper {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  .left_box {
+    padding: 5rem;
+    ul {
+      display: flex;
+      justify-content: center;
+      list-style: none;
+      li {
+        padding: 6px 10px;
+        background: rgba(87, 199, 255, 0.1);
+        margin: 12px 5px;
+        border-radius: 3px;
+      }
+    }
+  }
+}
