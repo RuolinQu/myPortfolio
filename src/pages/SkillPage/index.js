@@ -1,6 +1,8 @@
 import React from 'react'
 import styles from './skill.module.scss'
 
+import Skills from '../../assets/img/skills.png'
+
 export default function SkillPage() {
     return (
         <div className={styles.skill_wrapper}>
@@ -38,7 +40,7 @@ export default function SkillPage() {
                 </ul>
             </div>
             <div className={styles.right_box}>
-                <img></img>
+                <img src={Skills}></img>
             </div>
         </div>
     )

@@ -1,8 +1,7 @@
 .wrapper {
-  //flex: 1;
-  width: 70%;
+  width: 80%;
   margin: 0 auto;
-  padding: 5rem;
+  padding: 3rem;
   .boxes {
     display: flex;
     justify-content: space-between;
@@ -18,7 +17,7 @@
       // border: 1px red solid;
     }
     img {
-      width: 15rem;
+      width: 13rem;
       padding: 1rem 1rem;
     }
     p2 {

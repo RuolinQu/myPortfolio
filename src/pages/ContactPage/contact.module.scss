@@ -1,12 +1,21 @@
 .contact_wrapper {
-  width: 70%;
-  margin: 0 auto;
+  width: 80%;
+  margin: 2rem auto;
   display: flex;
   flex-wrap: wrap;
   .contact_box {
     width: 50%;
     box-sizing: border-box;
     padding: 1rem 1rem;
-    border: 1px solid red;
+    margin: 3rem 0rem;
+    p {
+      padding-bottom: 3rem;
+    }
+  }
+  .contact_box:nth-child(1) {
+    border-right: 1px solid black;
+  }
+  .contact_box:nth-child(3) {
+    border-right: 1px solid black;
   }
 }

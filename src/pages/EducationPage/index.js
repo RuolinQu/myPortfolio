@@ -10,6 +10,7 @@ export default function EducationPage() {
             <div className={styles.boxes}>
                 <article className={styles.left_box}>
                     <img src={Rutgers}></img>
+                    <br/>
                     <p2>Rutgers Univerisity</p2>
                     <br />
                     <br/>
@@ -25,7 +26,8 @@ export default function EducationPage() {
                     </ul>
                 </article>
                 <article>
-                     <img src={UESTC}></img>
+                    <img src={UESTC}></img>
+                    <br/>
                     <p2>Univerisity of Electronic Science And Technology of China</p2>
                     <br />
                     <br/>

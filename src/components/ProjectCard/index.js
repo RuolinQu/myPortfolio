@@ -1,6 +1,8 @@
 import React from 'react'
 import styles from './project.module.scss'
 
+
+
 export default function ProjectCard(props) {
     const { ProjectData } = props
     console.log(ProjectData)

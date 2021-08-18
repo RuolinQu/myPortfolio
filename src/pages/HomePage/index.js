@@ -2,8 +2,7 @@ import React from 'react'
 import styles from './Home.module.scss'
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-
-import { faCode } from "@fortawesome/free-solid-svg-icons";
+import { faCode} from "@fortawesome/free-solid-svg-icons";
 import Typewriter from "typewriter-effect";
 
 export default function HomePage() {
