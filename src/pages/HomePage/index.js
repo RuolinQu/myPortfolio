@@ -11,7 +11,7 @@ export default function HomePage() {
             <div className={styles.left_box}>
                 <FontAwesomeIcon icon={faCode} size="6x" />
                 <p>Jay Qu</p>
-                    <div className={styles.typing_wrapper}>
+                <div className={styles.typing_wrapper}>
                     <div className={styles.typing}>
                         <Typewriter
                             options={{

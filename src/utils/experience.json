@@ -3,27 +3,27 @@
     "msg": "请求成功!",
     "data": [
         {
-            "title":"Lease Accounting Software",
-            "company": "ss",
-            "brief":"A community driven app which allows airline staff to request and share loads information for non-rev flights",
-            "tags":[ "nodejs","react","styled components","google cloud platform","typescript","kubernetes","react native" ],
-            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover1.jpg",
+            "title":"Lease Accounting Software" ,
+            "company": "@Visual Lease         Oct 2019 - Present",
+            "brief":"Lease accounting and lease administration software specifically designed to manage the client company’s real estate and equipment leases",
+            "tags":[ "JavaScript","Nodejs","React","Redux","React Router","MySQL","JSON","HTML5", "CSS", "Jest" ],
+            "cover":"https://github.com/RuolinQu/favicon/blob/master/lease.jpeg?raw=true",
             "id":1
         },
         {
-            "title":"Lease Accounting Software",
-            "company": "aa",
-            "brief":"A community driven app which allows airline staff to request and share loads information for non-rev flights",
-            "tags":[ "nodejs","react","styled components","google cloud platform","typescript","kubernetes","react native" ],
-            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover1.jpg",
+            "title":"Virtusa Data Analytics",
+            "company": "@Virtusa Corporation          Sep 2018 – SEP 2019",
+            "brief":"Virtusa Data Analytics (VDA) delivers a robust ecosystem to transform raw data into actionable insights and respond on time to remain competitive.",
+            "tags":[ "React","JavaScript","HTML5","Bootstrap","CSS","Python","Flask","MySQL","Test-library","Jira","RESTful" ],
+            "cover":"https://github.com/RuolinQu/favicon/blob/master/data.jpeg?raw=true",
             "id":2
         },
         {
-            "title":"Lease Accounting Software",
-            "company": "bb",
-            "brief":"A community driven app which allows airline staff to request and share loads information for non-rev flights",
-            "tags":[ "nodejs","react","styled components","google cloud platform","typescript","kubernetes","react native" ],
-            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover1.jpg",
+            "title":"Construction Planning & Management",
+            "company": "@Sichuan Tengzhong    China 2016 -  July 2018",
+            "brief":"Construction Planning and Incident Management helps management of labor, resource, material and equipment schedules. This application allows user to define phases and tasks, and then match them with the labor, materials and resources required to complete each task and phase.",
+            "tags":[ "HTML","react","Bootstrap","Redux","Webpack","Node.js","Mocha", "GIT", "Restful" ],
+            "cover":"https://github.com/RuolinQu/favicon/blob/master/Incident-Management-Plan.jpeg?raw=true",
             "id":3
         }
     ]

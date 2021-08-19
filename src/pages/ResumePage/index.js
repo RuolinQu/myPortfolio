@@ -1,9 +1,30 @@
-import React from 'react'
+import React, { useState } from 'react';
 
-export default function index() {
+import { Viewer } from '@react-pdf-viewer/core';
+
+// Import the styles
+import '@react-pdf-viewer/core/lib/styles/index.css';
+
+
+import Pdf from '../../assets/files/Resume_RuolinQu.pdf'
+
+import { Worker } from '@react-pdf-viewer/core';
+
+export default function Resume() {
+
+  
     return (
-        <div>
-            Resume
-        </div>
-    )
+
+        <Worker workerUrl="https://unpkg.com/pdfjs-dist@2.6.347/build/pdf.worker.min.js">
+            <div
+                style={{
+                    border: '1px solid rgba(0, 0, 0, 0.3)',
+                    height: '750px',
+                }}
+            >
+                <Viewer fileUrl={Pdf} />
+            </div>
+        </Worker>
+      
+    );
 }

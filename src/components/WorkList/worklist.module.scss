@@ -1,46 +1,50 @@
 .worklist {
   ul {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: wrap;
     list-style: none;
     li {
-      width: 45%;
+      width: 70%;
       margin-bottom: 45px;
-      a {
-        display: inline-flex;
-        justify-content: space-between;
-        .cover {
-          img {
-            width: 100px;
-            border-radius: 5px;
-          }
+      .cover {
+        display: flex;
+        img {
+          width: 15rem;
+          padding-left: 1rem;
+          border-radius: 5px;
         }
-        .workbrief {
-          text-align: left;
-          padding-left: 15px;
-          h3 {
-            font-size: 18px;
-            color: rgb(51, 51, 51);
+      }
+      .workbrief {
+        padding: 1rem 1rem;
+        text-align: left;
+        border-bottom: 1px solid black;
+        h3 {
+          display: inline-block;
+          font-size: 1.2rem;
+          color: rgb(51, 51, 51);
+        }
+        p {
+          display: inline-block;
+          padding: 8px 0px;
+          padding: 1rem;
+          color: rgba(0, 0, 0, 0.7);
+          line-height: 1.8;
+        }
+        .tag {
+          // border: 1px solid red;
+          padding-left: 1rem;
+          display: flex;
+          justify-content: flex-start;
+          flex-wrap: wrap;
+          span {
+            color: rgba(0, 0, 0, 0.55);
+            font-size: 14px;
           }
-          p {
-            padding: 8px 0px;
-            color: rgba(0, 0, 0, 0.7);
-            line-height: 1.8;
-          }
-          .tag {
-            display: flex;
-            justify-content: flex-start;
-            flex-wrap: wrap;
-            span {
-              color: rgba(0, 0, 0, 0.55);
-              font-size: 14px;
-            }
-            span:not(:last-child)::after {
-              content: "•";
-              padding: 0px 0.5em;
-            }
+          span:not(:last-child)::after {
+            content: "•";
+            padding: 0px 0.5em;
           }
         }
       }
