@@ -27,7 +27,7 @@ function App(props) {
         <header className={styles.header}>
           <div className={styles.header_nav}>
             <div className={styles.navleft}>
-              <Link to='/'><p >Home</p></Link>
+              <p >Bomber</p>
             </div>
             <div className={styles.navright}>
               <Link to ='/'><p className={location.pathname==="/"?styles.selected:null}>Home</p></Link>
