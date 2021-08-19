@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5107a23b.chunk.css",
+    "main.js": "/static/js/main.40d053af.chunk.js",
+    "main.js.map": "/static/js/main.40d053af.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1d51a303.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1d51a303.js.map",
+    "static/css/2.e3746444.chunk.css": "/static/css/2.e3746444.chunk.css",
+    "static/js/2.4671c5d5.chunk.js": "/static/js/2.4671c5d5.chunk.js",
+    "static/js/2.4671c5d5.chunk.js.map": "/static/js/2.4671c5d5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e3746444.chunk.css.map": "/static/css/2.e3746444.chunk.css.map",
+    "static/css/main.5107a23b.chunk.css.map": "/static/css/main.5107a23b.chunk.css.map",
+    "static/js/2.4671c5d5.chunk.js.LICENSE.txt": "/static/js/2.4671c5d5.chunk.js.LICENSE.txt",
+    "static/media/Resume_RuolinQu.59fe2c27.pdf": "/static/media/Resume_RuolinQu.59fe2c27.pdf",
+    "static/media/Rutgers.3adea225.png": "/static/media/Rutgers.3adea225.png",
+    "static/media/UESTC.b6cceb2d.jpeg": "/static/media/UESTC.b6cceb2d.jpeg",
+    "static/media/p1.851b8f97.jpeg": "/static/media/p1.851b8f97.jpeg",
+    "static/media/p2.787fefe0.jpeg": "/static/media/p2.787fefe0.jpeg",
+    "static/media/p3.6319bb24.jpeg": "/static/media/p3.6319bb24.jpeg",
+    "static/media/p4.db41f214.jpeg": "/static/media/p4.db41f214.jpeg",
+    "static/media/p5.2a56d703.jpeg": "/static/media/p5.2a56d703.jpeg",
+    "static/media/p7.799e0313.jpeg": "/static/media/p7.799e0313.jpeg",
+    "static/media/skills.aee0f771.png": "/static/media/skills.aee0f771.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d51a303.js",
+    "static/css/2.e3746444.chunk.css",
+    "static/js/2.4671c5d5.chunk.js",
+    "static/css/main.5107a23b.chunk.css",
+    "static/js/main.40d053af.chunk.js"
+  ]
+}
