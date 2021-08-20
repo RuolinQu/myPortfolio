@@ -6,7 +6,7 @@ import { Viewer } from '@react-pdf-viewer/core';
 import '@react-pdf-viewer/core/lib/styles/index.css';
 
 
-import Pdf from '../../assets/files/Resume_RuolinQu.pdf'
+import Pdf from '../../assets/files/Jay_Qu_Resume.pdf'
 
 import { Worker } from '@react-pdf-viewer/core';
 
