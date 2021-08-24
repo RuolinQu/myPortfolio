@@ -27,7 +27,7 @@ function App(props) {
         <header className={styles.header}>
           <div className={styles.header_nav}>
             <div className={styles.navleft}>
-              <p >Bomber</p>
+              <p >Jay Qu</p>
             </div>
             <div className={styles.navright}>
               <Link to ='/'><p className={location.pathname==="/"?styles.selected:null}>Home</p></Link>
@@ -43,16 +43,14 @@ function App(props) {
       <section className={styles.content}>
       <div>
         <Switch>
-          <Route path="/" exact component={HomePage}/>
+            <Route path="/" exact component={HomePage} />
+            <Route path="/myPortfolio" exact component={HomePage}/>
           <Route path="/education" exact component={EducationPage}/>
           <Route path="/works" exact component={WorkPage}/>
           <Route path="/project" exact component={ProjectPage}/>
           <Route path="/skill" exact component={SkillPage}/>
           <Route path="/resume" exact component={ResumePage}/>
           <Route path="/contact" exact component={ContactPage}/>
-          {/* <Route path="/works:id">
-            <WorkDetail />
-          </Route> */}
         </Switch>
       </div>
       </section>
