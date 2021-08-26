@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.2c479fba.chunk.css",
-    "main.js": "/myPortfolio/static/js/main.c5c58709.chunk.js",
-    "main.js.map": "/myPortfolio/static/js/main.c5c58709.chunk.js.map",
+    "main.js": "/myPortfolio/static/js/main.074af1f3.chunk.js",
+    "main.js.map": "/myPortfolio/static/js/main.074af1f3.chunk.js.map",
     "runtime-main.js": "/myPortfolio/static/js/runtime-main.6acf9399.js",
     "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.6acf9399.js.map",
     "static/css/2.e3746444.chunk.css": "/myPortfolio/static/css/2.e3746444.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.e3746444.chunk.css.map": "/myPortfolio/static/css/2.e3746444.chunk.css.map",
     "static/css/main.2c479fba.chunk.css.map": "/myPortfolio/static/css/main.2c479fba.chunk.css.map",
     "static/js/2.4671c5d5.chunk.js.LICENSE.txt": "/myPortfolio/static/js/2.4671c5d5.chunk.js.LICENSE.txt",
-    "static/media/Jay_Qu_Resume.08af940d.pdf": "/myPortfolio/static/media/Jay_Qu_Resume.08af940d.pdf",
+    "static/media/Jay_Qu.259b4a65.pdf": "/myPortfolio/static/media/Jay_Qu.259b4a65.pdf",
     "static/media/Rutgers.3adea225.png": "/myPortfolio/static/media/Rutgers.3adea225.png",
     "static/media/UESTC.b6cceb2d.jpeg": "/myPortfolio/static/media/UESTC.b6cceb2d.jpeg",
     "static/media/p1.851b8f97.jpeg": "/myPortfolio/static/media/p1.851b8f97.jpeg",
@@ -28,6 +28,6 @@
     "static/css/2.e3746444.chunk.css",
     "static/js/2.4671c5d5.chunk.js",
     "static/css/main.2c479fba.chunk.css",
-    "static/js/main.c5c58709.chunk.js"
+    "static/js/main.074af1f3.chunk.js"
   ]
 }
